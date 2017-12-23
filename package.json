@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "Ashok Suthar <suthar.ashok@outlook.com, coderatlabs@gmail.com>", 
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^11.0.1"
+  }
+}
